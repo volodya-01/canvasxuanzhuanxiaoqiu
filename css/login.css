@@ -1,0 +1,147 @@
+html{ font-family:"微软雅黑" ;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}
+
+body{background: url(../images/预警登入界面_背景.jpg);  width:100%; height:100%; overflow:hidden;}
+
+.WaterWise_logo{  height:68px; position:relative; top:2.7%; left:2.7%;   }
+
+.WaterWise_login{ width:42.67%;  position:relative; top:8.815%; margin-left:12.542%;   }
+
+.WaterWise_login_biaoti01{ font-size:18px; color:#a7b1c3; letter-spacing:4; font-weight:100; line-height:0px;    }
+
+.WaterWise_login_biaoti02{ margin-top:0px;   font-size:40px; color:#0093e5; letter-spacing:0; font-weight:100; line-height:60px;    }
+
+
+
+
+.clear{ clear:both}
+
+.form{position:relative; top:0px;}
+
+.input_control{
+  
+  
+   border-bottom: 1px solid #d3d9e4;
+   height:60px;
+   width:70%;
+   
+   position:relative;
+   
+   top:10px;
+   
+   left:0px;
+  
+}
+.input_control02{
+  
+  
+   border-bottom: 1px solid #d3d9e4;
+   height:60px;
+   width:70%;
+   
+   position:relative;
+   
+   top:40px;
+   
+   left:0px;
+  
+}
+
+.input_control03{
+  
+  
+ 
+   height:60px;
+   width:70%;
+   
+   position:relative;
+   
+   top:60px;
+   
+   left:0px;
+  
+}
+
+.form_input01{
+    
+	background:none;
+	
+	float:left;
+	
+	position:relative;
+	
+	left:32px;
+
+    padding: 5px 0;
+    height: 60px;
+    box-sizing: border-box;
+    border-bottom: hidden;
+	border-left:hidden; 
+	border-right:hidden;
+	border-right:hidden;
+	border-top:hidden;
+    width:60%;
+    margin-left: 0 px;
+    line-height: 14px;
+    display: block;
+	font-size:16px; color:#a7b1c3; letter-spacing:0; font-weight:100; font-family:"微软雅黑"
+}
+
+.form_input02{
+
+    float:left;
+	
+	position:relative;
+	
+	left:12px;
+
+    box-sizing: border-box;
+    border-bottom: hidden;
+	
+    width: 24px;
+	
+	height:24px;
+    margin-left:12 px;
+	
+	margin-top:14px;
+    line-height: 14px;
+    display: block;
+}
+
+
+.form_input01:focus{outline:none; color:#0093e5;}
+
+.checkbox{ width:20px; height:20px; margin-top:8px; background:url(../images/checkbox_state01.png) no-repeat;appearance: none; -webkit-appearance: none;outline: none;  }
+
+.checkbox01{width:28px;  height:16px; font-size:16px; color:#a7b1c3; letter-spacing:0; font-weight:100;    }
+.checkbox02{  height:16px; font-size:16px; color:#a7b1c3; letter-spacing:0; font-weight:100;   margin-left:12px;  }
+.checkbox03{  height:16px; font-size:16px; color:#a7b1c3; letter-spacing:0; font-weight:100;    text-align:right;  }
+
+.checkbox:checked{background:url(../images/checkbox_state02.png) no-repeat;}
+
+.form_button{ width:180px; height:54px; background: url(../images/button_login_state01.png); position:relative; top:40px;    top:120px;
+    box-sizing: border-box;
+    border-bottom: hidden;
+	border-left:hidden; 
+	border-right:hidden;
+	border-right:hidden;
+	border-top:hidden;}
+
+.form_button:hover{ background: url(../images/button_login_state02.png);}
+
+
+
+.heda{  height:14px; position: absolute ; bottom:2.7%; left:2.7%;  font-size:14px; color:#0093e5; letter-spacing:0; font-weight:100;  }
+
+.xian{ width:14px; height:116px; position: absolute ; bottom:-20px; right:5%; background:url(../images/line.png) no-repeat;   }
+
+
+
+
+
+
+
+
+
+
+
+
